@@ -1,0 +1,2919 @@
+Keybinds: {
+	Boost.DisplayName: Boost
+	"Set Waypoint.DisplayName": Set  Waypoint
+	"Teleport to Waypoint.DisplayName": Teleport to  Waypoint
+	"Remove Waypoint.DisplayName": Remove  Waypoint
+	"Item Super.DisplayName": Item  Super
+	Dash.DisplayName: Dash
+	"Shadow Dash (Hold).DisplayName": Shadow  Dash ( Hold)
+	Ultimate.DisplayName: Ultimate
+	"Ultimate Menu.DisplayName": Ultimate  Menu
+	"Clock Ring.DisplayName": Clock  Ring
+	"Armor Switch.DisplayName": Armor  Switch
+	"Aerial Manoeuvre.DisplayName": Aerial  Manoeuvre
+	"Kinectic Boots Gold Speed Mode.DisplayName": Kinectic  Boots  Gold  Speed  Mode
+	"Manual Cthulhu Walkers Trigger.DisplayName": Manual  Cthulhu  Walkers  Trigger
+}
+
+Tiles: {
+	BossTrophy.MapEntry: Boss Trophy
+	CreationNexus.MapEntry: Creation Nexus
+	RadianceCarriageTile.MapEntry: Radiance Cannon
+	RadianceCarriageTileBig.MapEntry: Radiance Caannon
+	SIVA_Monitor_Tile.MapEntry: SIVA Monitor
+	ZeleniteOre.MapEntry: Zelenite Ore
+	AdamantiteAnvil_Tile.MapEntry: Adamantite Anvil_ Tile
+}
+
+Buffs: {
+	Blight: {
+		DisplayName: Blight
+		Description: You feel suppressed
+	}
+
+	Boost: {
+		DisplayName: Boosted
+		Description: Whooosh!
+	}
+
+	BoostCooldown: {
+		DisplayName: Boost Cooldown
+		Description: The spell is regaining it's powers
+	}
+
+	CritPlusBuff: {
+		DisplayName: Critical Plus
+		Description: Critical Chance is greatly increased
+	}
+
+	DashCooldown: {
+		DisplayName: Dash Cooldown
+		Description: Regaining powers
+	}
+
+	DShock: {
+		DisplayName: Destabilization Shock
+		Description: Can't handle powerful energy
+	}
+
+	EndWorld: {
+		DisplayName: End World
+		Description: Between two dimensions
+	}
+
+	EndWorldCooldown: {
+		DisplayName: End World Cooldown
+		Description: Regaining powers over dimensions
+	}
+
+	LapsusCooldown: {
+		DisplayName: In Lapsus Furvus Glutino Atramenti Ad Nihilum Super Cooldown
+		Description: Charging...
+	}
+
+	ManoeuvreCooldown: {
+		DisplayName: Aerial Manoeuvre Cooldown
+		Description: Regaining powers over the sky...
+	}
+
+	NineShot: {
+		DisplayName: Nine Shot
+		Description: Mods.Minigun.Buffs.NineShot.Description
+	}
+
+	Peregar: {
+		DisplayName: Aftertaste
+		Description: Enemies die in close proximity
+	}
+
+	RedStatic: {
+		DisplayName: Red Static
+		Description: Mods.Minigun.Buffs.RedStatic.Description
+	}
+
+	RelocatorCooldown: {
+		DisplayName: Relocator Cooldown
+		Description: Charging relocation system
+	}
+
+	Stop: {
+		DisplayName: Stop
+		Description: Wait a bit
+	}
+
+	StopPl: {
+		DisplayName: Stop
+		Description: The Time Flow Has been Stopped
+	}
+
+	Teleport: {
+		DisplayName: Teleport
+		Description: Zap!
+	}
+
+	TeleportCooldown: {
+		DisplayName: Teleport Cooldown
+		Description: No Zap!
+	}
+
+	Vainglory: {
+		DisplayName: Vainous glory
+		Description: Kills you
+	}
+
+	Vulnerability: {
+		DisplayName: Vulnerability
+		Description: Mods.Minigun.Buffs.Vulnerability.Description
+	}
+
+	WarpCooldown: {
+		DisplayName: Warp Cooldown
+		Description: No Zap!
+	}
+
+	Wine: {
+		DisplayName: Muscatella
+		Description: -70% to all damage
+	}
+
+	Aspiration: {
+		DisplayName: Aspiration
+		Description: Mods.Minigun.Buffs.Aspiration.Description
+	}
+
+	AspirationBuff: {
+		DisplayName: Heart of Aspiration
+		Description: Increases damage by 25%, attack speed by 30% and critical strike chance by 20%
+	}
+
+	AspirationBuffTeam: {
+		DisplayName: Aspiration
+		Description: Increases damage by 12,5%, attack speed by 15% and critical strike chance by 10%
+	}
+}
+
+Items: {
+	ACape: {
+		DisplayName: Akatsuki Cape
+		Tooltip: ""
+	}
+
+	ADust: {
+		DisplayName: Arcane Dust
+		Tooltip: Filled with magic
+	}
+
+	AllSeeingEye: {
+		DisplayName: All-Seeing Eye
+		Tooltip:
+			'''
+			Dispays nearby enemies, treasure and hazards
+			Needs both Demon Altar and Glass Kiln to be crafted
+			'''
+	}
+
+	AncientRelic: {
+		DisplayName: Ancient Relic
+		Tooltip: Summons The Stupidest Boss Ever!
+	}
+
+	AncientTech: {
+		DisplayName: Backup Chamber
+		Tooltip:
+			'''
+			'Emits intimidating energy'
+			Makes all projectiles track enemies
+			Projectiles inflict various debuffs on impact
+			'''
+	}
+
+	AquaticDye: {
+		DisplayName: Aquatic Dye
+		Tooltip: Glows in a dark
+	}
+
+	ArcaneBGM: {
+		DisplayName: Arcane .50 BMG
+		Tooltip: Annihilation
+	}
+
+	ArcaneWin: {
+		DisplayName: Arcane .300 Winchester
+		Tooltip: Accuracy
+	}
+
+	ArtifactEX: {
+		DisplayName: Artifact EX
+		Tooltip:
+			'''
+			Dodge Roll+!
+			Allows dashing in cursor direction
+			Double tap a direction or press 
+			Hold Up to dash diagonally
+			Increased dash length and speed
+			You gain invincibility while dashing
+			'''
+	}
+
+	Artifact: {
+		DisplayName: WIP The Artifact
+		Tooltip: ""
+	}
+
+	ASLEye: {
+		DisplayName: Another Suspicious Looking Eye
+		Tooltip:
+			'''
+			Summons The Eye of Pain
+			You thought it's The Eye of Cthulhu, but it's not!
+			Not Consumable
+			'''
+	}
+
+	AtramentumFlask: {
+		DisplayName: Atramentum Flask
+		Tooltip: Consumes all light around it
+	}
+
+	AttunedBottle: {
+		DisplayName: Attuned Bottle
+		Tooltip: Use at night to collect Starlight
+	}
+
+	AzzrillsMechanism: {
+		DisplayName: The Mechanism
+		Tooltip:
+			'''
+			Thousand And One Cog
+			Stops the time flow for 17.333333333... seconds at cost of 1/4 of your HP
+			Projectiles shot while time is stopped will regain their velocity when time resumes
+			Enemies are invulnerable while time is stopped
+			Silver knifes gain extra damage if were stopped previously
+			'What you call 'Time Stop' is actually moving at extremely high speeds with no mass'
+			'''
+	}
+
+	BlightmetalBar: {
+		DisplayName: Blightmetal Bar
+		Tooltip:
+			'''
+			'You do not want to touch this'
+			Amplifies vibrations
+			Can act as hyperconductor even at high temperatures
+			'''
+	}
+
+	BlightmetalBullet: {
+		DisplayName: Blightmetal Bullet
+		Tooltip: Annihilation
+	}
+
+	BookofAccurancy: {
+		DisplayName: Book of Accuracy
+		Tooltip: +20% critical strike chance
+	}
+
+	BookofLife: {
+		DisplayName: Book of Life Tier 1
+		Tooltip: Cannot be used while the player is mana sick
+	}
+
+	BookofLife2: {
+		DisplayName: Book of Life Tier 2
+		Tooltip: Cannot be used while the player is mana sick
+	}
+
+	BookofLife3: {
+		DisplayName: Book of Life Tier 3
+		Tooltip: Cannot be used while the player is mana sick
+	}
+
+	BookofLife4: {
+		DisplayName: Book of Life Tier 4
+		Tooltip: Cannot be used while the player is mana sick
+	}
+
+	Boost: {
+		DisplayName: Boost Spell
+		Tooltip:
+			'''
+			I'm Fast as Fuck Boi
+			Press Boost Hotkey to gain velocity towards a cursor
+			'''
+	}
+
+	BurntAnkh: {
+		DisplayName: Burnt Ankh
+		Tooltip: Took a lot of effort
+	}
+
+	CalibrasHairpin: {
+		DisplayName: Calibra's Hairpin
+		Tooltip:
+			'''
+			Her favourite one
+			Makes you shoot 2 additional projectiles per item use
+			Decreases damage by 40%
+			Blocks some bullet transformations
+			Chaos Catalyst!
+			'''
+	}
+
+	CarbonatedWine: {
+		DisplayName: Carbonated Wine
+		Tooltip: Drink if you dare!
+	}
+
+	CarbonItem: {
+		DisplayName: Wired Carbon Plating
+		Tooltip: ""
+	}
+
+	CarbonWallItem: {
+		DisplayName: Wired Carbon Plating Wall
+		Tooltip: ""
+	}
+
+	CBag: {
+		DisplayName: Treasure Bag
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	CBreast: {
+		DisplayName: Cursed Blood Breastplate
+		Tooltip: Has some great potential
+	}
+
+	Celestriad: {
+		DisplayName: Celestriad
+		Tooltip:
+			'''
+			'Bringing back items from tConfig? Sounds great!'
+			All Spells cost 1 mana to cast.
+			'''
+	}
+
+	Cell: {
+		DisplayName: Empty Cell
+		Tooltip: Can be filled with a material using Extractinator
+	}
+
+	CGreaves: {
+		DisplayName: Cursed Blood Greaves
+		Tooltip: Has some great potential
+	}
+
+	CharmofReality: {
+		DisplayName: Charm of Reality
+		Tooltip:
+			'''
+			Really powerul thing
+			Immunity to almost ALL vanilla debuffs (exept Potion Sickness and Water Candle)
+			Allows to conrtol gravity + knockback resistance
+			'''
+	}
+
+	CHelmet: {
+		DisplayName: Cursed Blood Helmet
+		Tooltip: Has some great potential
+	}
+
+	Circuit: {
+		DisplayName: Universal Circuit: Blue
+		Tooltip: Useful material
+	}
+
+	Circuit1: {
+		DisplayName: Universal Circuit: Green
+		Tooltip: Useful material
+	}
+
+	Circuit2: {
+		DisplayName: Universal Circuit: Red
+		Tooltip: Useful material
+	}
+
+	ClockCorpse: {
+		DisplayName: Clock Corpse
+		Tooltip: Made from legendary brass
+	}
+
+	ClockRing: {
+		DisplayName: Clock Ring
+		Tooltip:
+			'''
+			I'm in the zone
+			Upon getting hit: reduces the damage taken by 70% and summons a Stasis Field
+			Stasis field greatly slows enemies and hostile projectiles
+			45 seconds cooldown
+			Stasis field can be summoned via a hotkey, but the cooldown will be twice as long
+			'''
+	}
+
+	ClockworkHookAccessory: {
+		DisplayName: Clockwork Drive
+		Tooltip:
+			'''
+			Replication
+			In fact, this thing generated a whole worm out of the Eye's materials
+			Recraft to change modes
+			Current mode: Accessory
+			Can work in two ways: as Hook and as Accessory
+			If used as Accessory: Increases maximum grapples count by 3 and allows to shoot an infinite amount of hooks at a time
+			'''
+	}
+
+	ClockworkHookItem: {
+		DisplayName: Clockwork Drive
+		Tooltip:
+			'''
+			Replication
+			In fact, this thing generated a whole worm out of the Eye's materials
+			Recraft to change modes
+			Current mode: Hook
+			Can work in two ways: as Hook and as Accessory
+			If used as Accessory: Increases maximum grapples count by 3 and allows to shoot an infinite amount of hooks at a time
+			'''
+	}
+
+	ClockworkTrophyItem: {
+		DisplayName: Clockwork Trophy
+		Tooltip: ""
+	}
+
+	ConsecratedGoldpin: {
+		DisplayName: Consecrated Goldpin
+		Tooltip:
+			'''
+			Holy inquisition
+			Increases critical strike chance by 30% and damage by 50%
+			Decreases max health by 100 and defense by 50
+			Reduces the healing received by 35%
+			'''
+	}
+
+	Corpse: {
+		DisplayName: Corpse
+		Tooltip: ""
+	}
+
+	Corpse1: {
+		DisplayName: Corpse1
+		Tooltip: ""
+	}
+
+	Corpse2: {
+		DisplayName: Corpse2
+		Tooltip: ""
+	}
+
+	CreationNexusItem: {
+		DisplayName: Composite Crafting Station
+		Tooltip: Functions as Workbench, Anvil, Sink, Demon Altar, Extractinator, Glass Kiln, Loom and Furnace
+	}
+
+	CrystalArtifact: {
+		DisplayName: Soul Resonator
+		Tooltip: Improves Ultimates and grants an extra Dash Ability charge
+	}
+
+	CrystalRegrower: {
+		DisplayName: Crystal Regrower
+		Tooltip:
+			'''
+			Explosive payload!
+			Modifies Crystal Bullets
+			More shards are generated on impact
+			Shards track enemies
+			Bullets travel much faster
+			'''
+	}
+
+	CursedBlood: {
+		DisplayName: Cursed Blood
+		Tooltip:
+			'''
+			Used for cursed crafting
+			Needs both Extractinator and Demon Altar to be crafted
+			'''
+	}
+
+	CursedBloodBar: {
+		DisplayName: Cursed Blood Bar
+		Tooltip:
+			'''
+			Used for advanced cursed crafting
+			Needs both Furnace and Demon Altar to be crafted
+			'''
+	}
+
+	CursedCog: {
+		DisplayName: Cursed Cog
+		Tooltip:
+			'''
+			Spins faster than spinner
+			Doubles all items' use speed
+			Decreases all damage by 50%, except for summon damage
+			Made from brass and dark steel, which can't be alloyed. Strange, isn't it?
+			'''
+	}
+
+	CursedGambler: {
+		DisplayName: Cursed Gambler
+		Tooltip: ""
+	}
+
+	CurseofNirvana: {
+		DisplayName: Curse of Nirvana
+		Tooltip:
+			'''
+			The most powerful curse
+			Allows to walk on a hot blocks, grants immunity to lava
+			+30% to all damage
+			Prolongs invincibility after taking damage
+			Increases life regeneration
+			+200 Max Mana
+			Grants Night Vision, but colors your eyes red
+			'''
+	}
+
+	DarkSteelBar: {
+		DisplayName: Dark Steel Bar
+		Tooltip: Unbreakable
+	}
+
+	DesecrationModule: {
+		DisplayName: Desecration Module
+		Tooltip: Use to upgrade Trilinear Rifle into Shrieking Whisper
+	}
+
+	DiamondPickaxe: {
+		DisplayName: Diamond Pickaxe
+		Tooltip: It is harmless, but fast!
+	}
+
+	DiamondPickaxe10: {
+		DisplayName: Diamond Pickaxe Axe Tier 4
+		Tooltip: It is harmless, but fast!
+	}
+
+	DiamondPickaxe2: {
+		DisplayName: Diamond Pickaxe Tier 2
+		Tooltip: It is harmless, but fast!
+	}
+
+	DiamondPickaxe3: {
+		DisplayName: Diamond Pickaxe Tier 3
+		Tooltip: It is harmless, but fast!
+	}
+
+	DiamondPickaxe4: {
+		DisplayName: Diamond Pickaxe Tier 4
+		Tooltip: It is harmless, but fast!
+	}
+
+	DiamondPickaxe5: {
+		DisplayName: Diamond Pickaxe Tier 5
+		Tooltip: It is harmless, but fast!
+	}
+
+	DiamondPickaxe6: {
+		DisplayName: Diamond Pickaxe Tier 6
+		Tooltip: It is harmless, but fast!
+	}
+
+	DiamondPickaxe7: {
+		DisplayName: Diamond Pickaxe Axe Tier 1
+		Tooltip: It is harmless, but fast!
+	}
+
+	DiamondPickaxe8: {
+		DisplayName: Diamond Pickaxe Axe Tier 2
+		Tooltip: It is harmless, but fast!
+	}
+
+	DiamondPickaxe9: {
+		DisplayName: Diamond Pickaxe Axe Tier 3
+		Tooltip: It is harmless, but fast!
+	}
+
+	DistortedIngot: {
+		DisplayName: Distorted Ingot
+		Tooltip: ""
+	}
+
+	EasymodeBar: {
+		DisplayName: Easymode Bar
+		Tooltip: Looking at it makes you feel nostalgic
+	}
+
+	EldBerry: {
+		DisplayName: Eldritch Berry
+		Tooltip:
+			'''
+			Ultimate Alchemical Catalyst Used by Ancient Witches
+			Harvested from grown Deathweed during Solar Eclipse
+			'''
+	}
+
+	EndWorldAmulet: {
+		DisplayName: End World Amulet
+		Tooltip:
+			'''
+			Second Chance
+			Grants an ability to cheat death
+			When your hp goes below 0, you will enter the End World
+			While in the End World you are invincible and your damage is tripled
+			You've got 10 seconds to deal needed amount of damage based on your current max hp to safely exit the End World
+			If needed amound of damage was not reached, you will be lost
+			'''
+	}
+
+	EtherealEye: {
+		DisplayName: Ethereal Eye
+		Tooltip:
+			'''
+			Inner Wounds
+			Quadriples the damage
+			The dealt damage equals to 1, but the true damage is substracted strait from enemy's hp
+			Mobs killed with this item equipped won't drop anything
+			'''
+	}
+
+	ExoticMatter: {
+		DisplayName: Exotic Matter
+		Tooltip: Looking at it corrodes Your mind
+	}
+
+	FadedPhoto: {
+		DisplayName: Faded Photo
+		Tooltip:
+			'''
+			Not photogenic
+			Makes all magic projectiles highly explosive
+			Decreases initial projectile damage by 66%
+			Explosion deals +75% damage
+			Removes projectile penetration
+			'''
+	}
+
+	FlintLockRifleBlueprint: {
+		DisplayName: Improved Kramniumlock Rifle Blueprint
+		Tooltip: Use to unlock Improved Kramniumlock Rifle recipe
+	}
+
+	FlintLockRifle: {
+		DisplayName: Improved Kramniumlock Rifle
+		Tooltip:
+			'''
+			Focal damage
+			Shoots a powerful congestion of energy
+			Breaks after 1 shot
+			'''
+	}
+
+	FPShield: {
+		DisplayName: Fallen Paladin's Shield
+		Tooltip:
+			'''
+			Instead of protecting your comrades, now you protect your egoistic ass
+			Decreases incoming damage by 20%
+			'''
+	}
+
+	FragmentofAnotherUniverse: {
+		DisplayName: Fragment of Another Universe
+		Tooltip: ""
+	}
+
+	FuturisticTablet: {
+		DisplayName: Status Card
+		Tooltip: ""
+	}
+
+	GemDust: {
+		DisplayName: Gem Dust
+		Tooltip: Rainbows and Dusts
+	}
+
+	GleamingGoldDye: {
+		DisplayName: Gleaming Gold Dye
+		Tooltip: Glows in a dark
+	}
+
+	Gravitator: {
+		DisplayName: Gravitator
+		Tooltip: Allows to control gravity + immunity to Distorted
+	}
+
+	GreaterHoneyPotion: {
+		DisplayName: Greater Honey Potion
+		Tooltip: Provides Honey regeneration
+	}
+
+	GunslingerHairpin: {
+		DisplayName: Gunslinger's Hairpin
+		Tooltip:
+			'''
+			37% chance to not consume ammo
+			Increases projectile velocity
+			'''
+	}
+
+	HardmodeBar: {
+		DisplayName: Hardmode Bar
+		Tooltip: Unicorns and adamantite!
+	}
+
+	HealthBox: {
+		DisplayName: Health Box
+		Tooltip:
+			'''
+			While in inventory:
+			Increases life regeneration
+			Grants 10% more healing from all sources
+			'''
+	}
+
+	HoneyHealthPotion: {
+		DisplayName: Honey Healing Potion
+		Tooltip: Provides Honey regeneration
+	}
+
+	HoneyPotion: {
+		DisplayName: Honey Potion
+		Tooltip: Provides Honey regeneration
+	}
+
+	HookShotItem: {
+		DisplayName: Backpack of Hooks
+		Tooltip:
+			'''
+			Wanna sum?
+			Allows up to 6 Hooks
+			Infinite amount of Hooks can be shot at a time
+			Hook's Pull Speed, Flight Speed and Length are extremely high
+			'''
+	}
+
+	IllegalWeaponInstructions: {
+		DisplayName: Illegal Weapon Instructions
+		Tooltip:
+			'''
+			Read if you dare!
+			The item's presence itself is illegal
+			'''
+	}
+
+	InnerMana: {
+		DisplayName: Inner Mana
+		Tooltip: +100 Max Mana
+	}
+
+	IzaworldAmulet: {
+		DisplayName: Izaworld Amulet
+		Tooltip:
+			'''
+			Touch the Outerlands!
+			Grants an aura that dispells most projectiles
+			After taking a hit the aura becomes unstable and disappears after 3 seconds
+			Taking a hit during the unstable state will prolong it
+			The aura returns 10 seconds after disappearing
+			Doubles incoming melee damage while the aura is active
+			Press Boost Hotkey to teleport and gain velocity towards a cursor
+			Adds an extra 1% to all damage for every 5 points of defense
+			Increases maximum grapples count by 3 and allows to shoot an infinite amount of hooks at a time
+			Is no longer wings, but will boost your fligt time
+			Can no longer be used as a hook
+			'''
+	}
+
+	JadeDye: {
+		DisplayName: Melting Jade Dye
+		Tooltip: Filled with hopes
+	}
+
+	KBar: {
+		DisplayName: Kramnium Bar
+		Tooltip: Not particulary useful
+	}
+
+	KBoots: {
+		DisplayName: Boots of The Insanity
+		Tooltip:
+			'''
+			Insane Speed for Insane Users!
+			Increases attack speed by 20%
+			'''
+	}
+
+	KHat: {
+		DisplayName: Gambler's Hat
+		Tooltip:
+			'''
+			Great deal!
+			Gives discount and grants extra coins for killing mobs
+			Grants Sniper Scope effects
+			Sniper effect can be switched On and Off by pressing Armor Switch Hotkey
+			Increases damage by 30%
+			Increases critical strike chance by 10% and critical damage by 50%
+			'''
+	}
+
+	KinecticBoots: {
+		DisplayName: Kinectic Boots
+		Tooltip:
+			'''
+			Hypersonic speed!
+			You feel bad when you look at the boots' name
+			Allows to walk on a hot blocks, grants immunity to lava and 'On Fire'
+			+30% to all damage, +20% critical strike chance
+			Prolongs invincibility after taking damage
+			Sightly increases life regeneration and reduces the cooldown of healing potions
+			+400 Max Mana, allows to walk on water and lava
+			Grants Night Vision
+			20% to not consume ammo
+			Increased jump height
+			Allows flight and slow fall
+			Gives ability to swim and underwater breathing
+			+30% melee speed
+			Philosopher's stone effect and +100 max life
+			All-Seeing Eye's effects
+			'''
+	}
+
+	KinecticBootsGold: {
+		DisplayName: Kinectic Boots Gold
+		Tooltip:
+			'''
+			Archypersonic speed!
+			You feel bad when you look at the boots' name
+			Allows to walk on a hot blocks, grants immunity to lava and 'On Fire'
+			+40% to all damage, +15% extra summon damage and +3 minion slots, +20% critical strike chance
+			Prolongs invincibility after taking damage, +20% damage reduction
+			Sightly increases life regeneration and reduces the cooldown of healing potions
+			+400 Max Mana, all spells cost 1 mana to cast, allows to walk on water and lava
+			Grants Night Vision, but there is a Hard Light party in your eyes
+			57% chance to not consume ammo
+			Increased jump height and speed, allows autojump and Aerial Manoeuvre
+			Allows infinite flight and slow fall
+			Gives ability to swim and underwater breathing
+			+30% melee speed
+			Philosopher's stone effect and +100 max life
+			All-Seeing Eye's effects, End World Amulet's effects
+			Can cycle speed modes by pressing Kinectic Boots Gold Speed Mode hotkey
+			'''
+	}
+
+	KLens: {
+		DisplayName: Kramnium Infused Lens
+		Tooltip: I'm seeing red...
+	}
+
+	KLiquid: {
+		DisplayName: Kramnium Cell
+		Tooltip:
+			'''
+			Pure Power
+			Stable
+			'''
+	}
+
+	KMirror: {
+		DisplayName: Bottomless Mirror
+		Tooltip: Rigt Click to set the point, than Left Click to teleport to the set point
+	}
+
+	KRaincoat: {
+		DisplayName: Vantablack Raincoat
+		Tooltip:
+			'''
+			Solar Armor, huh?
+			Grants immunity to most debuffs
+			Allows to control gravity
+			Gravity control can be switched On an Off by pressing Armor Switch hotkey
+			Gives ability to walk on fire blocks and knockBack resistance
+			Reduces damage taken by 20%
+			'''
+	}
+
+	KramniumCrystal: {
+		DisplayName: Kramnium Crystal
+		Tooltip:
+			'''
+			Pulsating with destructive energy
+			Madly unstable!
+			'''
+	}
+
+	LaserDesignator: {
+		DisplayName: Laser Designator
+		Tooltip:
+			'''
+			Having problems mining ore? Well, not anymore!
+			Right click on a block to choose it as a target
+			Right click on Designator in inventory with a stack of items to change it's radius
+			Left click somewhere on screen to mine targeted blocks
+			Has the mining power of your strongest pickaxe
+			'''
+	}
+
+	LaserDesignatorRadiance: {
+		DisplayName: Laser Designator Radiance
+		Tooltip: ""
+	}
+
+	LensAssemblage: {
+		DisplayName: Lens Assemblage
+		Tooltip:
+			'''
+			No, it's not a scope
+			Used for advanced mechanisms
+			'''
+	}
+
+	LunaDial: {
+		DisplayName: Luna Dial
+		Tooltip: Multidimesional glance
+	}
+
+	MBullet: {
+		DisplayName: Magic Bullet
+		Tooltip: Destruction
+	}
+
+	MechanicalCore: {
+		DisplayName: Mechanical Core
+		Tooltip: Immunity to all slowing and stopping debuffs
+	}
+
+	MechEye: {
+		DisplayName: Clockwork Eye
+		Tooltip:
+			'''
+			Half Cog
+			Summons The Clockwork
+			Not Consumable
+			'''
+	}
+
+	MercuryCluster: {
+		DisplayName: Liquid Mercury
+		Tooltip: Has alchemic potential
+	}
+
+	MercuryLamp: {
+		DisplayName: Mercury Lamp
+		Tooltip:
+			'''
+			Dark Wings
+			Grants an aura that dispells most projectiles
+			After taking a hit the aura becomes unstable and disappears after 3 seconds
+			Taking a hit during unstable state will prolong it
+			The aura returns 10 seconds after disappearing
+			Triples incoming melee damage while the aura is active
+			'''
+	}
+
+	Moonphaser: {
+		DisplayName: Moonphaser
+		Tooltip:
+			'''
+			Use to change moon phase
+			Yep, more 1.1.2-ish items
+			'''
+	}
+
+	MRIEssence: {
+		DisplayName: MRI Essence
+		Tooltip:
+			'''
+			Feels unreal
+			hdx65h468rd5h867dy6hf5d
+			'''
+	}
+
+	MultidimensionalTab_World: {
+		DisplayName: Multidimensional Tablet
+		Tooltip:
+			'''
+			Waypoint system.
+			Use Set Waypoint hotkey ('V' by default) to set a waypoint location and its name
+			To finish waypoint creation use Tab button (I mean on a keyboard)
+			Use Left Click and Right Click to cycle through existing waypoints
+			Use Teleport to Waypoint hotkey ('X' by default) to teleport
+			Use Remove Waypoint hotkey ('N' by default) to remove a selected waypoint
+			'''
+	}
+
+	NotGold: {
+		DisplayName: Not Gold
+		Tooltip: ""
+	}
+
+	ObitoMask: {
+		DisplayName: Obito Mask
+		Tooltip: ""
+	}
+
+	OFlask: {
+		DisplayName: Oxygen Tank
+		Tooltip: Immunity to Suffocation
+	}
+
+	Ouroboros: {
+		DisplayName: Ouroboros
+		Tooltip: ""
+	}
+
+	OvercoaledSteel: {
+		DisplayName: Overcoaled Steel
+		Tooltip: Somewhat fragile
+	}
+
+	PEyeTrophyItem: {
+		DisplayName: Eye of Pain Trophy
+		Tooltip: ""
+	}
+
+	PrimalMana: {
+		DisplayName: Primal Mana
+		Tooltip: +200 Max Mana
+	}
+
+	PrimordialFabric: {
+		DisplayName: Primordial Fabric
+		Tooltip: ""
+	}
+
+	PrismShard: {
+		DisplayName: Prism Shard
+		Tooltip:
+			'''
+			Shattered dreams
+			+1 penetration to magic projectiles
+			Projectiles smart bounce into another enemy after a hit
+			'''
+	}
+
+	PureMana: {
+		DisplayName: Pure Mana
+		Tooltip: +400 Max Mana
+	}
+
+	Purgatory: {
+		DisplayName: Purgatory
+		Tooltip:
+			'''
+			Tool Consumer
+			Right Clicking with any tool will transfer it's stats to Purgatory
+			Using Item Super hotkey will cycle tool modes
+			Feeding a Diamond Pickaxe Axe of any tier to Purgatory may produce an interesting result
+			'Hamdrax is back!'
+			'''
+	}
+
+	RadianceCarriage: {
+		DisplayName: Radiance Carriage
+		Tooltip: ""
+	}
+
+	RailgunBolt: {
+		DisplayName: .75 Railgun Bolt
+		Tooltip: Extermination
+	}
+
+	RealityFabric: {
+		DisplayName: Fabric of Reality
+		Tooltip:
+			'''
+			The Essence of Everything
+			Needs both Sky Mill and Loom to be crafted
+			'''
+	}
+
+	RedDiode: {
+		DisplayName: Red Diode
+		Tooltip: Basic diode
+	}
+
+	RedStaticDye: {
+		DisplayName: Red Static Dye
+		Tooltip: ""
+	}
+
+	RevBullet: {
+		DisplayName: Revolver Bullet
+		Tooltip: Pierce
+	}
+
+	RottenEye: {
+		DisplayName: Rotten Eye
+		Tooltip:
+			'''
+			Now you scare them!
+			Immunity to Tongued, Blackout, Horrified, Stinky, Moon Bite and Obsrtucted
+			'''
+	}
+
+	ShadowCharm: {
+		DisplayName: Shadow Charm
+		Tooltip:
+			'''
+			Dodge Roll!
+			Allows dashing
+			Double tap a direction or press Shadow Dash Hotkey
+			Hold Up to dash diagonally
+			You gain invincibility while dashing
+			'''
+	}
+
+	SharpenedPlating: {
+		DisplayName: Sharpened Plating
+		Tooltip:
+			'''
+			Offensive Defense
+			Adds an extra 1% to all damage for every 5 points of defense
+			'''
+	}
+
+	ShinyBlade: {
+		DisplayName: Shiny Blade
+		Tooltip: The only one thing that hasn't burnt in a furnace
+	}
+
+	ShinyMetalBar: {
+		DisplayName: Shiny Metal Bar
+		Tooltip: Big bling
+	}
+
+	SilverShell: {
+		DisplayName: Silver Shell
+		Tooltip: Quite spatious
+	}
+
+	SinSoul: {
+		DisplayName: Soul of Sin: Gula
+		Tooltip: One the seven
+	}
+
+	SinSoul1: {
+		DisplayName: Soul of Sin: Desidia
+		Tooltip: One the seven
+	}
+
+	SinSoul2: {
+		DisplayName: Soul of Sin: Invidia
+		Tooltip: One the seven
+	}
+
+	SinSoul3: {
+		DisplayName: Soul of Sin: Ira
+		Tooltip: One the seven
+	}
+
+	SinSoul4: {
+		DisplayName: Soul of Sin: Superbia
+		Tooltip: One the seven
+	}
+
+	SinSoul5: {
+		DisplayName: Soul of Sin: Lucrum
+		Tooltip: One the seven
+	}
+
+	SinSoul6: {
+		DisplayName: Soul of Sin: Luxuria
+		Tooltip: One the seven
+	}
+
+	SIVA_Core_Active: {
+		DisplayName: Active SIVA Core
+		Tooltip: Ancient technology from another world
+	}
+
+	SIVA_Core_Inactive: {
+		DisplayName: Inactive SIVA Core
+		Tooltip: Kill splicer enemies to charge it
+	}
+
+	SIVA_Datapad: {
+		DisplayName: Datapad
+		Tooltip: Kill certain enemies to collect their data:
+	}
+
+	SIVA_Fragment: {
+		DisplayName: SIVA Fragment
+		Tooltip: Ancient technology from another world
+	}
+
+	SIVA_Map: {
+		DisplayName: Mapping Device
+		Tooltip: ""
+	}
+
+	SIVA_Monitor: {
+		DisplayName: SIVA Monitor
+		Tooltip: ""
+	}
+
+	SIVAModule: {
+		DisplayName: SIVA Module
+		Tooltip: Use to upgrade Trilinear Rifle into The Last Patient
+	}
+
+	SkyrulerRing: {
+		DisplayName: Ring of Ethereal Touch
+		Tooltip:
+			'''
+			Rule over the sky!
+			Increases flight time of your wings
+			Allows to perform Aerial Manoeuvre by pressing hotkey(C by default)
+			Aerial Manoeuvre will push you in oposite direction of your cursor
+			Performing Aerial Manoeuvre will also increase flight time
+			'''
+	}
+
+	SoulKeep: {
+		DisplayName: Soul Keeper's Tablet
+		Tooltip: Equip to become a ghost
+	}
+
+	SpatialRelocator: {
+		DisplayName: Spatial Relocator
+		Tooltip:
+			'''
+			In and out
+			Right Click to teleport to a cursor location on Fullscreen Map
+			Teleportation uses 200 mana and has a 30 second cooldown
+			'''
+	}
+
+	StableFabric: {
+		DisplayName: Stable Fabric
+		Tooltip:
+			'''
+			Belongs to another dimension
+			Needs both Demon Altar and Loom to be crafted
+			'''
+	}
+
+	Starlight: {
+		DisplayName: Bottled Starlight
+		Tooltip:
+			'''
+			Used to make astral things
+			Use Attuned Bottle at night to gather
+			'''
+	}
+
+	StaticDye: {
+		DisplayName: Static Dye
+		Tooltip: ""
+	}
+
+	StopPresser: {
+		DisplayName: Stopwatch Presser
+		Tooltip: Can stop everything
+	}
+
+	StopWatch: {
+		DisplayName: Stop Watch
+		Tooltip:
+			'''
+			Rigt click to set the time, than equip to stop on the set time
+			Also can use Left click to turn to the set time
+			'''
+	}
+
+	SunAlloy: {
+		DisplayName: Sun Alloy
+		Tooltip: Glows in a dark
+	}
+
+	Syringe: {
+		DisplayName: The Syringe
+		Tooltip:
+			'''
+			Condensed Suffering
+			Increases maximum life by 25 and all damage by 5% each use
+			Can be used 4 times
+			'''
+	}
+
+	TBagEye: {
+		DisplayName: Treasure Bag
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	TCompensator: {
+		DisplayName: Temperature Compensator
+		Tooltip: Immunity to all temperature debuffs + immunity to Electified
+	}
+
+	TestBag: {
+		DisplayName: Test Bag
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+	}
+
+	TestToolBlueprint: {
+		DisplayName: Test Tool Blueprint
+		Tooltip: Was used to test Blueprints mechanics
+	}
+
+	TestTool: {
+		DisplayName: Testing Tool
+		Tooltip: ""
+	}
+
+	TimeManip: {
+		DisplayName: Time Manipulator
+		Tooltip:
+			'''
+			Use to cycle through day and night
+			'Made from Kramnium, Dark Steel and Sun Alloy' as inscription says
+			'''
+	}
+
+	TMan: {
+		DisplayName: Strange Pocket Watch
+		Tooltip:
+			'''
+			Wait a bit, we're not in a hurry...
+			Left Click to rewind the time, Right Click to speed it up
+			'''
+	}
+
+	TransdimensionalAnomaly: {
+		DisplayName: Transdimensional Anomaly
+		Tooltip: You have a bad feeling about this...
+	}
+
+	UVaccine: {
+		DisplayName: The Ultimate Vaccine
+		Tooltip:
+			'''
+			Immunity to all venom debuffs + immunity to Ichor and Feral Bite
+			'Antivaxxers are in shambles!'
+			'''
+	}
+
+	VantablackDye: {
+		DisplayName: Vantablack Dye
+		Tooltip: ""
+	}
+
+	VHSTape: {
+		DisplayName: VHS Tape
+		Tooltip: ""
+	}
+
+	WarpLens: {
+		DisplayName: Warp Lens
+		Tooltip:
+			'''
+			Warp speed
+			Allows flight and slow fall
+			Press Boost hotkey to make a short-distance jump to a cursor (F by default)
+			'''
+	}
+
+	ABLShooter: {
+		DisplayName: Insane Cannon Lance
+		Tooltip:
+			'''
+			40% chance to not consume ammo
+			Has 3 modes: MachineGun, Magic Gun, Laser
+			Right Click to change modes
+			'''
+	}
+
+	AceofSpades: {
+		DisplayName: Ace of Spades
+		Tooltip:
+			'''
+			Enemies killed with this weapon create explosions
+			Critical hits also create explosions
+			Consumes nothing
+			'''
+	}
+
+	AdvancedLaserGun: {
+		DisplayName: Semi-Automatic Laser Gun
+		Tooltip:
+			'''
+			Laser Disco
+			Uses Zelenite Charges as ammo
+			'''
+	}
+
+	AMR: {
+		DisplayName: AMR
+		Tooltip:
+			'''
+			You were an utter failure until the very end.
+			Does not consume ammo
+			Penetrates walls
+			Always crit
+			Press Item Super hotkey to load a powerful bullet that gets stronger over time
+			Maximum strength is achieved after waiting for 5 seconds
+			90 seconds cooldown
+			'''
+	}
+
+	AncientWind: {
+		DisplayName: Ancient Wind
+		Tooltip: Ancient's best friend
+	}
+
+	AngelScourge: {
+		DisplayName: Angel's Scourge
+		Tooltip:
+			'''
+			What You Deserve...
+			Consumes every bullet
+			Transforms all Bullets into Chlorophyte Bullets
+			'''
+	}
+
+	Annihilator: {
+		DisplayName: The Annihilator
+		Tooltip: ""
+	}
+
+	ArcaneBM107: {
+		DisplayName: Arcane Barrett M107
+		Tooltip:
+			'''
+			Death Ray
+			Shoots a deadly beam of energy
+			Needs some time to recharge after a shot
+			'''
+	}
+
+	AstralSickle: {
+		DisplayName: Astral Sickle
+		Tooltip: Destructive star power!
+	}
+
+	AtramentumKnife: {
+		DisplayName: Atramentum Knife
+		Tooltip:
+			'''
+			A Knife made from atramentum
+			Resonates with moonlight...
+			'''
+	}
+
+	Autocannon2A: {
+		DisplayName: 2A38 Autocannon
+		Tooltip:
+			'''
+			BRRRRRT
+			60% chance to not consume ammo
+			Shoots 4 bullets at once
+			'''
+	}
+
+	AWSMCustom: {
+		DisplayName: AWSM Custom
+		Tooltip:
+			'''
+			Shoots super fast magic slug
+			50% chance to not consume ammo
+			Deals more damage than Suppressed version, but shoots slower
+			Uses no mana!
+			Uses Arcane .50BMG as ammo
+			'''
+	}
+
+	AWSMCustomSup: {
+		DisplayName: AWSM Custom Suppressed
+		Tooltip:
+			'''
+			Shoots super fast magic slug
+			50% chance to not consume ammo
+			Shoots faster, but deals less damage than normal version
+			Uses no mana!
+			Uses Arcane .50BMG as ammo
+			'''
+	}
+
+	AzzrillsLongMinigun: {
+		DisplayName: Azzrill's Long Minigun
+		Tooltip:
+			'''
+			Legendary weapon from 1.1.2
+			The first item Azzrill ever made...
+			'''
+	}
+
+	BGSaw: {
+		DisplayName: Black Gold Saw
+		Tooltip:
+			'''
+			Can be used both as a sword and as a saw
+			Right Click to use it like a saw
+			More references!
+			'''
+	}
+
+	BladeBracer: {
+		DisplayName: Bladed Bracer
+		Tooltip: Launches several razor-sharp knives
+	}
+
+	BLaser: {
+		DisplayName: The Blue Laser
+		Tooltip: Better use a clicker
+	}
+
+	BM107: {
+		DisplayName: Barrett M107
+		Tooltip: Powerful Sniper Rifle
+	}
+
+	Brimstoner: {
+		DisplayName: Brimstoner
+		Tooltip:
+			'''
+			Uses Kramnium Cells as ammo
+			Right Click for Insane mode
+			80% chance to not consume Kramnium Cells
+			'''
+	}
+
+	CBlade: {
+		DisplayName: Cursed Blade
+		Tooltip: A sharp piece of rusty metal
+	}
+
+	CompoundBow: {
+		DisplayName: Compound Bow
+		Tooltip:
+			'''
+			I'VE HEARD OF SOMETHING SIMILAR, haliBUT I CAN'T REMEMBER WHERE
+			Shoots a pack of arrows
+			Only one arrow is consumed
+			'''
+	}
+
+	CorruptDL: {
+		DisplayName: Corrupt Death Laser
+		Tooltip: ""
+	}
+
+	CrimsonDL: {
+		DisplayName: Crimson Death Laser
+		Tooltip: ""
+	}
+
+	CursedGranade: {
+		DisplayName: Cursed Hand Grenade
+		Tooltip: ""
+	}
+
+	DeadSilence: {
+		DisplayName: Dead Silence
+		Tooltip:
+			'''
+			I hear the pitter-patter of your feeeEEEEEAAAAAHHH GASP t
+			Consumes every bullet
+			Can Shoot through the walls
+			Shoots super fast invisible projectile
+			'''
+	}
+
+	Empyrean: {
+		DisplayName: Empyrean
+		Tooltip: ""
+	}
+
+	FlintLockRifle2: {
+		DisplayName: Kramniumlock Rifle
+		Tooltip:
+			'''
+			Diffusion damage
+			Shoots a powerful congestion of energy
+			Breaks after 1 shot
+			'''
+	}
+
+	GathlingFury: {
+		DisplayName: Gatling's Fury
+		Tooltip:
+			'''
+			Die In A Fire
+			Consumes every bullet
+			Shots several projectiles at once
+			'''
+	}
+
+	GaussGun: {
+		DisplayName: Gauss Caannon
+		Tooltip:
+			'''
+			Hold to charge, release to shoot
+			Consumes nothing
+			'''
+	}
+
+	Gjallarhorn: {
+		DisplayName: G-Horn
+		Tooltip:
+			'''
+			Year 1
+			Uses magazines of 2 Rockets
+			Shoots tracking rockets
+			Rockets release swarm of homing nanomites on impact
+			Right Click or Left Click with empty magazine to trigger reload
+			Right Click with any ammo left in magazine to take it out
+			OMG I'VE GOT A GJALLARHORN! MUM, I'VE GOT A GJALLARHORN!!!
+			'''
+	}
+
+	GoldenCard: {
+		DisplayName: Golden Cards
+		Tooltip:
+			'''
+			Sharp!
+			Throws five homing cards
+			Not affected by gravity
+			'''
+	}
+
+	GoldenScythe: {
+		DisplayName: Golden Scythe
+		Tooltip: ""
+	}
+
+	GolemDL: {
+		DisplayName: Temple Death Laser
+		Tooltip: ""
+	}
+
+	GravityManipulator: {
+		DisplayName: Repulsor Cannon
+		Tooltip:
+			'''
+			Pre-nerf Tractor Cannon
+			Repulses enemies back when used on short ranges
+			When used on extremely short ranges, will deal damage and inflict 'Vulnerability' debuff
+			Vulnerability: Inflicted enemies take 50% more projectile and debuff damage
+			Belongs to 'Gravity Research Department'
+			'''
+	}
+
+	HallowedDL: {
+		DisplayName: Hallowed Death Laser
+		Tooltip: ""
+	}
+
+	HaxGun: {
+		DisplayName: Hax Gun
+		Tooltip: U Hckr
+	}
+
+	IceBreaker: {
+		DisplayName: Ice Breaker
+		Tooltip:
+			'''
+			48 RPM
+			No knockBack?
+			Year 1
+			Regenerates up to 6 ammo
+			Kills cause targets to explode
+			'''
+	}
+
+	InLapsusFurvusGlutinoAtramentiAdNihilum: {
+		DisplayName: In Lapsus Furvus Glutino Atramenti Ad Nihilum
+		Tooltip:
+			'''
+			The Ultimate Artifact...
+			Right Click to perform a ranged slash at the mouse position
+			Press Super hotkey (by default T) to shoot Space-Bending projectile
+			Resonates with moonlight...
+			'''
+	}
+
+	IzanagiBurden: {
+		DisplayName: Izanagi's Burden
+		Tooltip: Left Click for normal shots, Right Click for an empowered projectile with longer delay
+	}
+
+	John: {
+		DisplayName: Jotunn
+		Tooltip: Hold to charge, release to shoot
+	}
+
+	KarosRockmaul: {
+		DisplayName: Karos Rockmaul
+		Tooltip: ""
+	}
+
+	KKnife: {
+		DisplayName: Kramnium Knife
+		Tooltip:
+			'''
+			A Knife made from kramnium
+			Resonates with hardmode spirits...
+			'''
+	}
+
+	KnifeTrick: {
+		DisplayName: Knife Trick
+		Tooltip:
+			'''
+			One of the knife tricks of all time
+			Fires a flurry of Electrostatic Knives
+			Electrostatic Knives will constantly lose velocity
+			After stopping, they will produce explosive copies of themselves
+			If no targets are present when the explosion occurs, Knives will disappear, otherwise they will home into the closest target
+			'''
+	}
+
+	KRifle: {
+		DisplayName: MachineRifle
+		Tooltip:
+			'''
+			Converts Musket Balls to Kramnium Bullets
+			40% chance to not consume ammo
+			Has 3 modes: MachineGun, Rifle, Laser
+			Right Click to change modes
+			'''
+	}
+
+	KScissors: {
+		DisplayName: Scissors of The Heavenly Host
+		Tooltip:
+			'''
+			Overcursed!
+			Right Click to shoot Blades
+			'''
+	}
+
+	KScissorsEX: {
+		DisplayName: Scissors of Everything
+		Tooltip:
+			'''
+			Feels like you could cut the fate itself...
+			Right Click to shoot Blades
+			'''
+	}
+
+	KStaff: {
+		DisplayName: Kramnium Staff
+		Tooltip: Destroys everything in its way
+	}
+
+	L96A1Asiimov: {
+		DisplayName: Arcane L96A1 Asiimov
+		Tooltip:
+			'''
+			Shoots super fast magic slug
+			40% chance to not consume ammo
+			Needs to be reloaded before shot
+			Consumes all mana: Increases damage and critical strike chance in proportion to the mana consumed
+			Uses Arcane .300 Winchester as ammo
+			'''
+	}
+
+	L96A1Isaac: {
+		DisplayName: Arcane L96A1 Isaac
+		Tooltip:
+			'''
+			Shoots super fast magic slug
+			40% chance to not consume ammo
+			Needs to be reloaded before shot
+			Consumes all mana: Increases damage and critical strike chance in proportion to the mana consumed
+			Uses Arcane .300 Winchester as ammo
+			'''
+	}
+
+	LaserGun: {
+		DisplayName: Basic Laser Gun
+		Tooltip:
+			'''
+			Laser Show
+			Uses Zelenite Charges as ammo
+			'''
+	}
+
+	LaserGunH: {
+		DisplayName: Hardened Laser Gun
+		Tooltip:
+			'''
+			Laser Show * 2
+			Uses Zelenite Charges as ammo
+			'''
+	}
+
+	LaserShotgun: {
+		DisplayName: Laser Shotgun
+		Tooltip:
+			'''
+			Also try Soul Calibre!
+			Fires 5-8 lasers
+			Consumes nothing
+			'''
+	}
+
+	LoudWhisper: {
+		DisplayName: Shrieking Whisper
+		Tooltip:
+			'''
+			Pre-nerf Whisper of The Worm
+			Uses magazines of 3 Blightmetal Bullets
+			Landing 3 shots on the same target in a short period of time will increase damage and generate ammo
+			Rapidly landing shots will stack The Nine effect
+			12 perfectly landed shots will trigger The Nine effect
+			Bullet which triggers The Nine effect takes half of enemy's current life
+			Right Click or Left Click with an empty magazine to trigger reload
+			Right Click with any ammo left in magazine to take it out
+			'''
+	}
+
+	M416: {
+		DisplayName: M416 Custom
+		Tooltip:
+			'''
+			M-Mii
+			Consumes every bullet
+			The Best
+			'''
+	}
+
+	MagicBulletRifle: {
+		DisplayName: Magic Bullet
+		Tooltip: ""
+	}
+
+	MagicRevolver: {
+		DisplayName: Magic Revolver
+		Tooltip:
+			'''
+			Zap. Zap. Zap. Zap. Zap. Zap. Click-Clack
+			Consumes 1/6 of your mana: The more mana consumed, the more damage you'll deal and more crit chance you'll get
+			Replenishes half of your mana on reload
+			Uses Revolver Bullets as ammo
+			'''
+	}
+
+	MagicRifle: {
+		DisplayName: Magic Rifle
+		Tooltip:
+			'''
+			Boom!
+			Consumes all mana: Increases damage and critical strike chance in proportion to the mana consumed
+			Uses Magic Bullets as ammo
+			'''
+	}
+
+	MakeshiftRifle: {
+		DisplayName: Makeshift Rifle
+		Tooltip:
+			'''
+			Double Action!
+			Button needs to be held for a while to shoot
+			Uses Magic Bullets as ammo
+			'''
+	}
+
+	MakeshiftRifle2: {
+		DisplayName: Makeshift Rifle 2.0
+		Tooltip:
+			'''
+			Triple Action?
+			Button needs to be held for a while to shoot
+			Uses Arcane .300 Winchester as ammo
+			'''
+	}
+
+	MatterAccelerator: {
+		DisplayName: Matter Accelerator
+		Tooltip: Shoots everything
+	}
+
+	MCrossbow: {
+		DisplayName: Clockwork Crossbow
+		Tooltip: ""
+	}
+
+	MechDL: {
+		DisplayName: Mechanical Death Laser
+		Tooltip: ""
+	}
+
+	MechDL1: {
+		DisplayName: Mechanical Death Laser
+		Tooltip: ""
+	}
+
+	Mediator: {
+		DisplayName: Mediator
+		Tooltip:
+			'''
+			Everyone hold hands!
+			15% summon tag damage and critical strike chance
+			Your summons will focus struck enemies
+			When either this weapon or your summon hits a tagged enemy, there is a 10% chance to trigger Impairing Collapse
+			Impairing Collapse: deals damage equal to 1000% of the initial attack and makes the enemy it hits Impared
+			Impared enemies take 25% more damage from all sources and have their contact damage reduced by 50%
+			'''
+	}
+
+	MeteoEtherGun: {
+		DisplayName: rEther Transmission Cannon
+		Tooltip:
+			'''
+			Extermination
+			Needs some time to charge up
+			If shot before full charge, projectile will be less powerful
+			If held after full charge, will constantly stack the damage
+			'Knight's favourite weapon'
+			'''
+	}
+
+	MiniHakkero: {
+		DisplayName: Mini Hakkero
+		Tooltip: Right Click to change modes
+	}
+
+	MNeedle: {
+		DisplayName: Clockwork Needle
+		Tooltip:
+			'''
+			Mechanical sewer
+			Rapidly throws brass needles at your enemies
+			Not affected by gravity
+			'''
+	}
+
+	MoonRailGun: {
+		DisplayName: Moonshine RailGun
+		Tooltip: ""
+	}
+
+	MSickle: {
+		DisplayName: Clockwork Sickle
+		Tooltip: Mechanized torment
+	}
+
+	ObscureSickle: {
+		DisplayName: Obscure Sickle
+		Tooltip: Ooow, Gloomy!
+	}
+
+	OldScissors: {
+		DisplayName: Old Scissors
+		Tooltip: It feels cursed...
+	}
+
+	Pistol: {
+		DisplayName: Pistol
+		Tooltip: ""
+	}
+
+	Pistol1: {
+		DisplayName: Pistol1
+		Tooltip: ""
+	}
+
+	Pistol2: {
+		DisplayName: Pistol2
+		Tooltip: ""
+	}
+
+	Pistol3: {
+		DisplayName: Pistol3
+		Tooltip: ""
+	}
+
+	Pistol4: {
+		DisplayName: Pistol4
+		Tooltip: ""
+	}
+
+	Pistol5: {
+		DisplayName: Pistol5
+		Tooltip: ""
+	}
+
+	Pistol6: {
+		DisplayName: Pistol6
+		Tooltip: ""
+	}
+
+	Pistol7: {
+		DisplayName: Pistol7
+		Tooltip: ""
+	}
+
+	Pistol8: {
+		DisplayName: Pistol8
+		Tooltip: ""
+	}
+
+	PlantDL: {
+		DisplayName: Plantera Death Laser
+		Tooltip: ""
+	}
+
+	PTRS: {
+		DisplayName: PTRS
+		Tooltip:
+			'''
+			Fires sparks along with the main projectile
+			Consumes no ammo
+			Penetrates walls
+			Hits on enemies spawn more sparks
+			'''
+	}
+
+	QuantumRailcannon: {
+		DisplayName: Quantum Railcannon
+		Tooltip: Right Click to fire a Singularity, shoot it to quantum-slpit the projectile for increased damage
+	}
+
+	RadiantCutter: {
+		DisplayName: Radiant Cutter
+		Tooltip: ""
+	}
+
+	RadiationBlaster: {
+		DisplayName: Radiation Blaster
+		Tooltip: ""
+	}
+
+	RailGun: {
+		DisplayName: Rail Gun
+		Tooltip: ""
+	}
+
+	RazorBlade: {
+		DisplayName: Razor Blade
+		Tooltip:
+			'''
+			Cuts even space
+			Right Click to teleport to the cursor
+			'''
+	}
+
+	Razorshade: {
+		DisplayName: Razorshade
+		Tooltip:
+			'''
+			Consume your enemy!
+			Unleashes a bunch of shadow whips inflicting Blight debuff
+			Blight: target rapidly loses life and takes more damage from all sources
+			'''
+	}
+
+	ResonanceCannon: {
+		DisplayName: Resonance Cannon: Legacy
+		Tooltip:
+			'''
+			Increases magnitude of sound vibrations in front of it, causing extreme damage to everything within it's area of effect
+			Using it harms you, after attack you'll get various debuffs
+			'''
+	}
+
+	ResonanceCannonNew: {
+		DisplayName: Resonance Cannon New
+		Tooltip: ""
+	}
+
+	rEtherRailgun: {
+		DisplayName: rEther Railgun
+		Tooltip:
+			'''
+			Focal Penetration
+			Use to charge, than use again to shoot
+			Uses .75 Railgun Bolt as ammo
+			'''
+	}
+
+	RiftBlade: {
+		DisplayName: Rift Blade
+		Tooltip: Right Click to teleport to the cursor
+	}
+
+	RippleTest: {
+		DisplayName: Ripple Test
+		Tooltip: ""
+	}
+
+	RockCannon: {
+		DisplayName: Rock Cannon
+		Tooltip:
+			'''
+			30% to not consume ammo
+			Has 3 modes: MachineGun, Magic Gun, Laser
+			Right Click to change modes
+			'''
+	}
+
+	ShortSword: {
+		DisplayName: Short-Sword
+		Tooltip: Half Short and half Sword - Completely awesome...
+	}
+
+	SilverKnife: {
+		DisplayName: Silver Knife
+		Tooltip:
+			'''
+			Just Perfect!
+			Not affected by gravity
+			Deals more damage if was time-stopped previosly
+			Resonates with hardmode spirits...
+			'''
+	}
+
+	SIVA_Cleaver: {
+		DisplayName: Corrupted Cleaver
+		Tooltip: ~slice and splice~
+	}
+
+	SonicEmbroider: {
+		DisplayName: Sonic Embroider
+		Tooltip: ""
+	}
+
+	SootyShaft: {
+		DisplayName: Sooty Shaft
+		Tooltip: Has Autoattack
+	}
+
+	SoulCalibre: {
+		DisplayName: Soul Calibre
+		Tooltip:
+			'''
+			Also try Laser Shotgun!
+			Needs no ammo, but consumes mana
+			'''
+	}
+
+	Test2: {
+		DisplayName: Test2
+		Tooltip: ""
+	}
+
+	TestSword: {
+		DisplayName: Test Sword
+		Tooltip: ""
+	}
+
+	TheFirstKeter: {
+		DisplayName: Keter, the First Sefirot
+		Tooltip: ""
+	}
+
+	TheLastContinent: {
+		DisplayName: The Last Continent
+		Tooltip: ""
+	}
+
+	TheLastPatient: {
+		DisplayName: The Last Patient
+		Tooltip:
+			'''
+			Eradication
+			Consumes every bullet
+			Hits and kills with this weapon spawn SIVA Nanomites
+			Enemies killed by Nanomites spawn more Nanomites
+			'''
+	}
+
+	ThrowingRazor: {
+		DisplayName: Throwing Razor
+		Tooltip:
+			'''
+			Sharp!
+			Not affected by gravity
+			'''
+	}
+
+	TrilinearRifle: {
+		DisplayName: Trilinear Rifle
+		Tooltip: The unchanging classic
+	}
+
+	TShooter: {
+		DisplayName: Tripled Gun
+		Tooltip: 30% chance to not consume ammo
+	}
+
+	TwoBarrelSG: {
+		DisplayName: Two Barrel ShotGun
+		Tooltip:
+			'''
+			Doom approaches
+			Consumes every bullet
+			Shoots two bursts at once
+			'''
+	}
+
+	TwoTapShotgun: {
+		DisplayName: Two Tap Shotgun
+		Tooltip: ""
+	}
+
+	Ultrashark: {
+		DisplayName: Ultrashark Prime
+		Tooltip:
+			'''
+			The Power of Fusion
+			70% chance to not consume ammo
+			Has a 10% chance to fire a high speed bullet which applies a stacking damaging debuff to targets hit
+			'''
+	}
+
+	UniversalGun: {
+		DisplayName: Universal Gun
+		Tooltip: ""
+	}
+
+	Vainglory: {
+		DisplayName: Vainglory
+		Tooltip:
+			'''
+			Also known as Wormsbane
+			This weapon's damage scales with target's current health
+			Damage is multiplied by 2 when target is at full health, minimum damage dealt with this weapon is 66% of the base damage
+			Crits with this weapon deal 50% more damage
+			When used, this weapon creates deadly aura at cursor position
+			The aura inflicts Vainous Glory debuff to targets in close promixity
+			Vainous Glory: Rapidly lose health
+			'''
+	}
+
+	WazerWifle: {
+		DisplayName: Wazer Wifle
+		Tooltip: I'm Like BAAM!
+	}
+
+	WeakDeathLaser: {
+		DisplayName: Weak Death Laser
+		Tooltip: ""
+	}
+
+	Winchester: {
+		DisplayName: Winchester 30-30
+		Tooltip:
+			'''
+			Old-Styled Terror
+			20% chance to not consume ammo
+			Uses 30-30 Winchester as ammo
+			'''
+	}
+
+	WinchesterGold: {
+		DisplayName: Winchester 30-30 Gold
+		Tooltip:
+			'''
+			Luxury-Styled Terror
+			Has autoattack
+			40% chance to not consume ammo
+			Uses 30-30 Winchester as ammo
+			'''
+	}
+
+	WinchesterM: {
+		DisplayName: Mercury Winchester 30-30
+		Tooltip:
+			'''
+			Steampunk-Styled Terror
+			30% chance to not consume ammo
+			Uses 30-30 Winchester as ammo
+			'''
+	}
+
+	WinchesterX: {
+		DisplayName: Winchester-Winchester
+		Tooltip:
+			'''
+			Sci-Fi-Styled Terror
+			40% chance to not consume ammo
+			Uses 30-30 Winchester as ammo
+			'''
+	}
+
+	WindUpAssaultRifle: {
+		DisplayName: Wind-Up Assault Rifle
+		Tooltip:
+			'''
+			Because Clockwork version already exists
+			40% chance to not consume ammo
+			Shoots 3 bullets at once and fires additional wall-piercing blades
+			Converts Musket Balls into High Velocity Bullets
+			'''
+	}
+
+	WoodShaft: {
+		DisplayName: Wooden Shaft
+		Tooltip:
+			'''
+			Why not?
+			Right Click to use like a Shortsword
+			'''
+	}
+
+	Win30_30: {
+		DisplayName: 30-30 Winchester
+		Tooltip: Traditions
+	}
+
+	Winchester30_30: {
+		DisplayName: Winchester 30-30
+		Tooltip: ...
+	}
+
+	ZeleniteArrow: {
+		DisplayName: Zelenite Arrow
+		Tooltip: Efficient against armored targets
+	}
+
+	ZeleniteBullet: {
+		DisplayName: Zelenite Bullet
+		Tooltip: Efficient against armored targets
+	}
+
+	ZeleniteCharge: {
+		DisplayName: Zelenite Charge
+		Tooltip:
+			'''
+			Incarnation
+			Used by Laser Guns
+			'''
+	}
+
+	ZeleniteGem: {
+		DisplayName: Zelenite Gem
+		Tooltip: Could be used to make some fancy ammo
+	}
+
+	ZeleniteRocket: {
+		DisplayName: Zelenite Rocket
+		Tooltip: ""
+	}
+
+	InLapsusFurvusGlutinoAtramentiAdNihilumMelee: {
+		DisplayName: In Lapsus Furvus Glutino Atramenti Ad Nihilum
+		Tooltip:
+			'''
+			The Ultimate Artifact...
+			Right Click to perform a ranged slash at the mouse position
+			Press Super hotkey (by default T) to shoot Space-Bending projectile
+			Resonates with moonlight...
+			'''
+	}
+
+	AdamantiteAnvilItem: {
+		DisplayName: Adamantite Anvil
+		Tooltip:
+			'''
+			Functions as Workbench, Mythril Anvil, Sink, Demon Altar, Extractinator, Glass Kiln, 
+			Loom, Sky Mill, Imbuing Station, Tinkerer's Workshop, Alchemy Table and Adamantite Forge
+			'''
+	}
+
+	WristCutter: {
+		DisplayName: Wrist Cutter
+		Tooltip:
+			'''
+			'God bless Project Moon!'
+			Rapidly slashes your foes in a large AoE
+			'''
+	}
+
+	WristCutter1: {
+		DisplayName: Wrist Cutter
+		Tooltip:
+			'''
+			'God bless Project Moon!'
+			Rapidly slashes your foes in a large AoE
+			Right Click to consume 20% of your max HP and unleash 300% of it as a devastating attack, granting you and your teammates Aspiration for 30 seconds
+			Aspiration: Increases damage by 25%, attack speed by 30% and critical strike chance by 20%, teammates receive only 50% of the aforementioned effect
+			While under the effect of Aspiration, Wrist Cutter's attack range is increased
+			'''
+	}
+
+	WristCutter2: {
+		DisplayName: Wrist Cutter
+		Tooltip:
+			'''
+			'God bless Project Moon!'
+			Rapidly slashes your foes in a large AoE
+			Hitting an enemy applies the Echo of Agony to them for 15 seconds, causing the target to receive a coordinated attack each time the weapon is used
+			Coordinated attack deals 60% less damage while in melee range
+			Right Click to consume 20% of your max HP and unleash 700% of it as a devastating attack, granting you and your teammates Aspiration for 30 seconds
+			Aspiration: Increases damage by 25%, attack speed by 30% and critical strike chance by 20%, teammates receive only 50% of the aforementioned effect
+			While under the effect of Aspiration, Wrist Cutter's attack range is increased
+			Press Item Super hotkey while the Bloodwater Gauge is full to subject your enemies to the Bloodbath, causing them to take immense damage based on your max HP
+			While the Bloodbath is active, you and your teammates gain immunity frames, while enemies become Drained and Severed for 30 seconds
+			Drained: The target deals 60% less contact damage, takes 40% more damage from melee and projectile attacks and 250% more damage from debuffs
+			Severed: The target's defense is reduced to 0
+			Bloodwater Gauge fills over time, hitting an enemy causes it to charge faster
+			'''
+	}
+
+	OphanimCoil: {
+		DisplayName: Ophanim Coil
+		Tooltip: ""
+	}
+
+	WristCutter3: {
+		DisplayName: Wrist Cutter
+		Tooltip:
+			'''
+			'God bless Project Moon!'
+			Rapidly slashes your foes in a large AoE
+			Hitting an enemy applies the Echo of Agony to them for 15 seconds, causing the target to receive a coordinated attack each time the weapon is used
+			Coordinated attack deals 60% less damage while in melee range
+			Right Click to consume 20% of your max HP and unleash 1000% of it as a devastating attack, granting you and your teammates Aspiration for 30 seconds
+			Aspiration: Increases damage by 25%, attack speed by 30% and critical strike chance by 20%, teammates receive only 50% of the aforementioned effect
+			While under the effect of Aspiration, Wrist Cutter's attack range is increased
+			Press Item Super hotkey while the Bloodwater Gauge is full to subject your enemies to the Bloodbath, causing them to take immense damage based on your max HP
+			While the Bloodbath is active, you and your teammates gain immunity frames, while enemies become Drained and Severed for 30 seconds
+			Drained: The target deals 60% less contact damage, takes 40% more damage from melee and projectile attacks and 250% more damage from debuffs
+			Severed: The target's defense is reduced to 0
+			Bloodwater Gauge fills over time, hitting an enemy causes it to charge faster
+			'''
+	}
+
+	Metaminity: {
+		DisplayName: Metaminity
+		Tooltip: ""
+	}
+
+	LevelTool: {
+		DisplayName: Level Tool
+		Tooltip: ""
+	}
+
+	ConcentratedSpells: {
+		DisplayName: Concentrated Spells
+		Tooltip:
+			'''
+			15% increased magic damage
+			Increases magic armor penetration by 35
+			Reduces magic attack speed by 20%
+			The final hit of the projectile may either penetrate the target of hit it twice
+			'''
+	}
+
+	KMirrorX: {
+		DisplayName: K Mirror X
+		Tooltip: ""
+	}
+
+	BridgeConstructor: {
+		DisplayName: Bridge Constructor
+		Tooltip:
+			'''
+			Right Click this item with a block to set it as material
+			Use Right Click to set a starting point
+			Use Left Click to build a bridge between the starting point and your cursor
+			Right Click twice to clear selection
+			'''
+	}
+
+	Umbr: {
+		DisplayName: Umbr
+		Tooltip: ""
+	}
+
+	DivineOrdainment: {
+		DisplayName: Divine Ordainment
+		Tooltip:
+			'''
+			Increases summon attack speed and damage by 20%
+			Increases whip range by 30%
+			Increases life regeneration
+			Enables auto swing for melee weapons
+			Grants immunity to knockback and fire blocks
+			Grants immunity to most debuffs
+			Your whip hits shred 15 enemy defense for 10 seconds
+			Your whip hits burn enemies for 10 seconds
+			'''
+	}
+
+	ShardofDivinity: {
+		DisplayName: Shard of Divinity
+		Tooltip:
+			'''
+			Increases attack speed and damage by 10%
+			Slightly increases life regeneration
+			'''
+	}
+
+	FlowerofSteel: {
+		DisplayName: Flower of Steel
+		Tooltip: Reduces damage taken by 7%
+	}
+
+	BiomeScrubber: {
+		DisplayName: Biome Scrubber
+		Tooltip: Removes biomes in a large area
+	}
+
+	ParadiseRemnant: {
+		DisplayName: Paradise Remnant
+		Tooltip:
+			'''
+			Increases critical strike chance by 40% and damage by 120%
+			Decreases max health by 150 and defense by 50
+			Reduces the healing received by 35%
+			'''
+	}
+
+	LepidopteraPhantasm: {
+		DisplayName: Lepidoptera Phantasm
+		Tooltip:
+			'''
+			Increases ability damage by 15%
+			When dealing ability damage, increases the damage dealt by 800% ATK damage
+			15 seconds cooldown
+			'''
+	}
+
+	AtrophicEdge: {
+		DisplayName: Atrophic Edge
+		Tooltip:
+			'''
+			Increases ability damage by 20%
+			Slightly increases ability recharge rate
+			'''
+	}
+
+	LunarianBoots: {
+		DisplayName: Lunarian Boots
+		Tooltip:
+			'''
+			Greatly increases mobility
+			Increases movement speed after taking damage
+			'''
+	}
+
+	PhantasmOfDespair: {
+		DisplayName: Phantasm Of Despair
+		Tooltip:
+			'''
+			Increases ability damage by 35%
+			Slightly increases ability recharge rate
+			When dealing ability damage, increases the damage dealt by 1500% ATK damage
+			15 seconds cooldown
+			'''
+	}
+
+	CthulhuWalkers: {
+		DisplayName: Cthulhu Walkers
+		Tooltip:
+			'''
+			Greatly increases mobility
+			Increases movement speed after taking damage
+			Grants ability to dash
+			Allows to activate Lunar Agility, either automatically or using a hotkey (use item to switch)
+			Lunar Agility: grants Panic buff for 12 seconds and allows your dash to go through an attack once
+			15 second cooldown
+			'''
+	}
+
+	EclipticEvaders: {
+		DisplayName: Ecliptic Evaders
+		Tooltip:
+			'''
+			Greatly increases mobility
+			Increases movement speed after taking damage
+			Grants ability to dash and double jump
+			Grants immunity to fall damage
+			Allows to activate Lunar Agility, either automatically, using a hotkey or pressing space while having no double jumps left (use item to switch)
+			Lunar Agility: grants Panic buff for 12 seconds and allows your dash to go through an attack once and refreshes all double jumps
+			15 second cooldown
+			'''
+	}
+
+	MidasSpike: {
+		DisplayName: Midas Spike
+		Tooltip:
+			'''
+			Releases several damaging spikes when hit by an enemy
+			For every point of damage taken by player, spikes' damage will increase by 1% of ATK
+			Enemies struck by the spikes drop 200% more gold when killed
+			'''
+	}
+}
+
+NPCs: {
+	Ancient.DisplayName: Ancient Mummy
+	Clockwork.DisplayName: Clockwork
+	CWormBody.DisplayName: Clockwork
+	CWormHead.DisplayName: Clockwork
+	CWormTail.DisplayName: Clockwork
+	DesecrationWormBody.DisplayName: Xizor, the World's Desecration
+	DesecrationWormHead.DisplayName: Xizor, the World's Desecration
+	DesecrationWormTail.DisplayName: Xizor, the World's Desecration
+	PEye.DisplayName: Eye of Pain
+	EyeofDesecration.DisplayName: Eye of Desecration
+	KEye.DisplayName: Kramnium Eye
+	MGlancer.DisplayName: Mechanical Glancer
+	SovietZombie.DisplayName: Soviet Zombie
+
+	TheAllKnowing: {
+		DisplayName: The All Knowing One
+
+		TownNPCMood: {
+			Content: All good.
+			NoHome: Get me a house, will ya?
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+
+	Xizor_theWorldDesecration: {
+		DisplayName: Xizor the World Desecration
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
+	}
+}
+
+Projectiles: {
+	ClockworkHookProjectile.DisplayName: Clockwork Hook Projectile
+	HookShotProjectile.DisplayName: Hook Shot Projectile
+	AAA.DisplayName: A A A
+	AAABloom.DisplayName: A A A Bloom
+	AAAResonance.DisplayName: A A A Resonance
+	AAAVertexCutter.DisplayName: A A A Vertex Cutter
+	AAAVertexTest.DisplayName: A A A Vertex Test
+	ABendTest.DisplayName: A Bend Test
+	AceBullet.DisplayName: Ace Bullet
+	AMRBloom.DisplayName: A M R Bloom
+	AMRHit.DisplayName: A M R Hit
+	AMRSuperBloom.DisplayName: A M R Super Bloom
+	AMRSuperHit.DisplayName: A M R Super Hit
+	AncientWind.DisplayName: Ancient Wind
+	AncientWindHostile.DisplayName: Ancient Wind Hostile
+	ArcaneBarrettShot.DisplayName: Arcane Barrett Shot
+	ARLaser.DisplayName: A R Laser
+	ARShoot.DisplayName: A R Shoot
+	ASick.DisplayName: A Sick
+	AsiShot.DisplayName: Asi Shot
+	AtramentumKnife.DisplayName: Atramentum Knife
+	AtramentumWave.DisplayName: Atramentum Wave
+	AutocannonShot.DisplayName: Autocannon Shot
+	AWSMShot.DisplayName: A W S M Shot
+	BarShot.DisplayName: Bar Shot
+	BlackHoleDist.DisplayName: Black Hole Dist
+	BlackRift.DisplayName: Black Rift
+	BlackSlash.DisplayName: Black Slash
+	BladeBracerProjectile.DisplayName: Blade Bracer Projectile
+	BladedRound.DisplayName: Bladed Round
+	BLaser.DisplayName: B Laser
+	BLaserH.DisplayName: B Laser H
+	Blast.DisplayName: Blast
+	Brim.DisplayName: Brim
+	BrimK.DisplayName: Brim K
+	CKnife.DisplayName: C Knife
+	CoDL.DisplayName: Co D L
+	CoDLT.DisplayName: Co D L T
+	CoDLTD.DisplayName: Co D L T D
+	CoDLTF.DisplayName: Co D L T F
+	CrDL.DisplayName: Cr D L
+	CritPlusShot.DisplayName: Crit Plus Shot
+	CursedGranade.DisplayName: Cursed Granade
+	DeliriumDash.DisplayName: Delirium Dash
+	DeliriumExplosion.DisplayName: Delirium Explosion
+	DesecrationSlash.DisplayName: Desecration Slash
+	DesecrationSlashF.DisplayName: Desecration Slash F
+	DesecrationSpit.DisplayName: Desecration Spit
+	DesecrationSword.DisplayName: Desecration Sword
+	DesignatorBlast.DisplayName: Designator Blast
+	DesignatorBlastFake.DisplayName: Designator Blast Fake
+	EHDL.DisplayName: E H D L
+	ElectricKnife.DisplayName: Electric Knife
+	ElectricKnifeExplosion.DisplayName: Electric Knife Explosion
+	ElectricSpear.DisplayName: Electric Spear
+	ElectricSpearTick.DisplayName: Electric Spear Tick
+	EmpyreanShot.DisplayName: Empyrean Shot
+	FancyTail.DisplayName: Fancy Tail
+	FastSlash.DisplayName: Fast Slash
+	FirstKeterCharge.DisplayName: First Keter Charge
+	GaussCharge.DisplayName: Gauss Charge
+	GaussProj.DisplayName: Gauss Proj
+	GjallarhornRocket.DisplayName: Gjallarhorn Rocket
+	GjallarhornRocketExplosion.DisplayName: Gjallarhorn Rocket Explosion
+	GoldenCard.DisplayName: Golden Card
+	GolemDL.DisplayName: Golem D L
+	GravitationRift.DisplayName: Gravitation Rift
+	GravitationRiftHit.DisplayName: Gravitation Rift Hit
+	GravityCharge.DisplayName: Gravity Charge
+	GScythe.DisplayName: G Scythe
+	HaxGun.DisplayName: Hax Gun
+	HaxGun1.DisplayName: Hax Gun1
+	HaxShot1.DisplayName: Hax Shot1
+	HaxShot2.DisplayName: Hax Shot2
+	HaxShot3.DisplayName: Hax Shot3
+	HaxShot4.DisplayName: Hax Shot4
+	HaxShot5.DisplayName: Hax Shot5
+	HaxShot6.DisplayName: Hax Shot6
+	HaxShot7.DisplayName: Hax Shot7
+	HeavySlash.DisplayName: Heavy Slash
+	HomingMRI.DisplayName: Homing M R I
+	IceBreakerBlast.DisplayName: Ice Breaker Blast
+	IceBreakerShot.DisplayName: Ice Breaker Shot
+	ImperialExplosion.DisplayName: Imperial Explosion
+	ImperialShot.DisplayName: Imperial Shot
+	InLapsusFurvusGlutinoAtramentiAdNihilum.DisplayName: In Lapsus Furvus Glutino Atramenti Ad Nihilum
+	IsaShot.DisplayName: Isa Shot
+	IShoot.DisplayName: I Shoot
+	JohnCharge.DisplayName: John Charge
+	JohnShot.DisplayName: John Shot
+	KBeam.DisplayName: K Beam
+	KeterShot.DisplayName: Keter Shot
+	KFlashLaser.DisplayName: K Flash Laser
+	KKnife.DisplayName: K Knife
+	KLaser.DisplayName: K Laser
+	KLightning.DisplayName: K Lightning
+	KMagic.DisplayName: K Magic
+	KramniumBlast.DisplayName: Kramnium Blast
+	KRock.DisplayName: K Rock
+	KRock1.DisplayName: K Rock1
+	KS.DisplayName: K S
+	KS_EX.DisplayName: K S_ E X
+	KShoot.DisplayName: K Shoot
+	KSlash.DisplayName: K Slash
+	KSlashEX.DisplayName: K Slash E X
+	KSwing.DisplayName: K Swing
+	KWave.DisplayName: K Wave
+	LapsusFurvusGlutinoAtramentiAdNihilum.DisplayName: Lapsus Furvus Glutino Atramenti Ad Nihilum
+	LaserBeam.DisplayName: Laser Beam
+	LaserDesignator.DisplayName: Laser Designator
+	LaserDesignatorFake.DisplayName: Laser Designator Fake
+	LaserShotgun.DisplayName: Laser Shotgun
+	Lasr.DisplayName: Lasr
+	LastBullet.DisplayName: Last Bullet
+	LastBullet1.DisplayName: Last Bullet1
+	Lightning.DisplayName: Lightning
+	LightningKatana.DisplayName: Lightning Katana
+	LSlash.DisplayName: L Slash
+	MagicShoot.DisplayName: Magic Shoot
+	MakeshiftCharge.DisplayName: Makeshift Charge
+	MakeshiftCharge2.DisplayName: Makeshift Charge2
+	MakeshiftShot.DisplayName: Makeshift Shot
+	MakeshiftShot2.DisplayName: Makeshift Shot2
+	MechDL.DisplayName: Mech D L
+	MechH.DisplayName: Mech H
+	MechShot.DisplayName: Mech Shot
+	MechSL.DisplayName: Mech S L
+	MediatorBlast.DisplayName: Mediator Blast
+	MediatorProjectile.DisplayName: Mediator Projectile
+	MediatorSpark.DisplayName: Mediator Spark
+	MeteoEtherCharge.DisplayName: Meteo Ether Charge
+	MeteoEtherShot.DisplayName: Meteo Ether Shot
+	MNeedle.DisplayName: M Needle
+	MoonRail.DisplayName: Moon Rail
+	MRICharge.DisplayName: M R I Charge
+	MShot.DisplayName: M Shot
+	MSick.DisplayName: M Sick
+	NihilSickle.DisplayName: Nihil Sickle
+	OldSlash.DisplayName: Old Slash
+	OneShotBeam.DisplayName: One Shot Beam
+	PhotoExplosion.DisplayName: Photo Explosion
+	PlantDL.DisplayName: Plant D L
+	PotentLaser.DisplayName: Potent Laser
+	PTRSBloom.DisplayName: P T R S Bloom
+	PTRSHit.DisplayName: P T R S Hit
+	PTRSSpark.DisplayName: P T R S Spark
+	Purgatory.DisplayName: Purgatory
+	QuantumRailcannon.DisplayName: Quantum Railcannon
+	QuantumSingularity.DisplayName: Quantum Singularity
+	QuantumSingularityHit.DisplayName: Quantum Singularity Hit
+	QuantumSingularitySparkle.DisplayName: Quantum Singularity Sparkle
+	RadianceBlast.DisplayName: Radiance Blast
+	RadianceHit.DisplayName: Radiance Hit
+	RadianceProjectile.DisplayName: Radiance Projectile
+	RadianceShot.DisplayName: Radiance Shot
+	RadianceSparkle.DisplayName: Radiance Sparkle
+	RadianceTarget.DisplayName: Radiance Target
+	RadiantCutter.DisplayName: Radiant Cutter
+	RadiationBlast.DisplayName: Radiation Blast
+	RadiationShot.DisplayName: Radiation Shot
+	Rail.DisplayName: Rail
+	RailGun.DisplayName: Rail Gun
+	RailgunBeam.DisplayName: Railgun Beam
+	RailgunCharge.DisplayName: Railgun Charge
+	RailMoon.DisplayName: Rail Moon
+	RailTest.DisplayName: Rail Test
+	RandomBullet.DisplayName: Random Bullet
+	ResonanceCannonProj.DisplayName: Resonance Cannon Proj
+	ResonanceCannonShot.DisplayName: Resonance Cannon Shot
+	ResonanceCannonShotNew.DisplayName: Resonance Cannon Shot New
+	ResonanceCannonShotNew1.DisplayName: Resonance Cannon Shot New1
+	ResonancePistolShot.DisplayName: Resonance Pistol Shot
+	ResonanceRifleLaser.DisplayName: Resonance Rifle Laser
+	ResonanceRifleShot.DisplayName: Resonance Rifle Shot
+	RevShoot.DisplayName: Rev Shoot
+	RevShot.DisplayName: Rev Shot
+	RippleTestVaingloryAura.DisplayName: Ripple Test Vainglory Aura
+	RLaser.DisplayName: R Laser
+	RShoot.DisplayName: R Shoot
+	Saw.DisplayName: Saw
+	ScytheSlash.DisplayName: Scythe Slash
+	SecondShotBeam.DisplayName: Second Shot Beam
+	ShadowyRazor.DisplayName: Shadowy Razor
+	Shoot.DisplayName: Shoot
+	Shoot1.DisplayName: Shoot1
+	Shoot2.DisplayName: Shoot2
+	ShotgunBeam.DisplayName: Shotgun Beam
+	SickBladeL.DisplayName: Sick Blade L
+	SickBladeR.DisplayName: Sick Blade R
+	Silence.DisplayName: Silence
+	SilverKnife.DisplayName: Silver Knife
+	SIVA_Cleaver_Projectile.DisplayName: S I V A_ Cleaver_ Projectile
+	SIVABullet.DisplayName: S I V A Bullet
+	SIVANanomite.DisplayName: S I V A Nanomite
+	Sleepy.DisplayName: Sleepy
+	SleepyL.DisplayName: Sleepy L
+	SoulShot.DisplayName: Soul Shot
+	Stop.DisplayName: Stop
+	Test.DisplayName: Test
+	TestL2.DisplayName: Test L2
+	TestL3.DisplayName: Test L3
+	TestLa.DisplayName: Test La
+	TestProj.DisplayName: Test Proj
+	TestWave.DisplayName: Test Wave
+	ThrowingRazor.DisplayName: Throwing Razor
+	TimeSlowField.DisplayName: Time Slow Field
+	UniversalGun_Magic.DisplayName: Universal Gun_ Magic
+	UniversalGun_Spear.DisplayName: Universal Gun_ Spear
+	VaingloryAura.DisplayName: Vainglory Aura
+	VaingloryProjectile.DisplayName: Vainglory Projectile
+	VaingloryWave.DisplayName: Vainglory Wave
+	WazerShot.DisplayName: Wazer Shot
+	WeDeLa.DisplayName: We De La
+	WhipLash.DisplayName: Whip Lash
+	WhisperedShot.DisplayName: Whispered Shot
+	WinShot.DisplayName: Win Shot
+	WinShotGold.DisplayName: Win Shot Gold
+	WinShotM.DisplayName: Win Shot M
+	WinShotX1.DisplayName: Win Shot X1
+	WinShotX2.DisplayName: Win Shot X2
+	WolfPackRound.DisplayName: Wolf Pack Round
+	ZeleniteArrow.DisplayName: Zelenite Arrow
+	ZeleniteBullet.DisplayName: Zelenite Bullet
+	ZeleniteRocket.DisplayName: Zelenite Rocket
+	Aspiration.DisplayName: Aspiration
+	WristCutterExtraSlash.DisplayName: Wrist Cutter Extra Slash
+	WristCutterUltBlast.DisplayName: Wrist Cutter Ult Blast
+	UltrasharkBullet.DisplayName: Ultrashark Bullet
+	CurseArc.DisplayName: Curse Arc
+	ButterflyHit.DisplayName: Butterfly Hit
+	CurseArcWeb.DisplayName: Curse Arc Web
+	GoldenSpike.DisplayName: Golden Spike
+	CurseHexMark.DisplayName: Curse Hex Mark
+	CurseCircleExplosion.DisplayName: Curse Circle Explosion
+}
+
+Configs: {
+	ConfigClient: {
+		DisplayName: Config Client
+
+		SmallIceBreakerBar: {
+			Label: Small Ice Breaker Ammo Bar
+			Tooltip: Replaces the default ammo bar with a smaller one
+		}
+	}
+
+	ConfigServer: {
+		DisplayName: Config Server
+
+		PaleKramnium: {
+			Label: Pale Kramnium
+			Tooltip: Greatly reduces Kramnium glow
+		}
+
+		UseUltimates: {
+			Label: Use Ultimates
+			Tooltip: Enables a pretty raw ultimate system
+		}
+
+		Spongefication: {
+			Label: Boss spongefication scale
+			Tooltip: If, for some reason, your boss fights became too short (why would that be?), this option will help
+		}
+	}
+}
