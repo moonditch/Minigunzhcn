@@ -1,0 +1,9 @@
+displayName = Minigunzhcn
+author = moon.ditch
+version = 0.1
+translationMod = true
+side = NoSync
+hideResources = true
+modReferences = Minigun
+sortAfter = Minigun
+homepage = 
