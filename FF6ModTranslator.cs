@@ -23,52 +23,52 @@ namespace FFCHS2.FF6ModTranslator
 				#region FF6Mod.FF6ItemStats
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.FF6ItemStats", "UpdateArmorSet", new ()
 				{
-					{"\nResists Earth damage","抵抗地属性"},
-					{"\nResists Ice damage","抵抗冰属性"},
-					{"\nResists Water damage","抵抗水属性"},
-					{"\nResists Fire damage","抵抗火属性"},
-					{"\nResists Poison damage","抵抗毒属性"},
-					{"\nResists Dark damage","抵抗暗属性"},
-					{"\nWeak against Fire damage","火属性弱点"},
-					{"\nWeak against Ice, resistant to Fire damage","冰属性弱点，抵抗火属性"},
-					{"\nWeak against Dark, resistant to Holy damage","暗属性弱点，抵抗圣属性"},
-					{"\nResistant to Fire damage.","抵抗火属性"},
-					{"\nResistant to Holy and Dark damage","抵抗圣与暗属性"},
-					{"\nResistant to Holy and Bolt damage","抵抗圣与电属性"},
-					{"\nResistant to Water and Dark damage","抵抗水与暗属性"},
+					{"\nResists Earth damage","\n抵抗地属性"},
+					{"\nResists Ice damage","\n抵抗冰属性"},
+					{"\nResists Water damage","\n抵抗水属性"},
+					{"\nResists Fire damage","\n抵抗火属性"},
+					{"\nResists Poison damage","\n抵抗毒属性"},
+					{"\nResists Dark damage","\n抵抗暗属性"},
+					{"\nWeak against Fire damage","\n火属性弱点"},
+					{"\nWeak against Ice, resistant to Fire damage","\n冰属性弱点，抵抗火属性"},
+					{"\nWeak against Dark, resistant to Holy damage","\n暗属性弱点，抵抗圣属性"},
+					{"\nResistant to Fire damage.","\n抵抗火属性"},
+					{"\nResistant to Holy and Dark damage","\n抵抗圣与暗属性"},
+					{"\nResistant to Holy and Bolt damage","\n抵抗圣与电属性"},
+					{"\nResistant to Water and Dark damage","\n抵抗水与暗属性"},
 				});
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.FF6ItemStats", "UpdateStats", new ()
 				{
-					{"\nDefense: ","防御: "},
-					{" \nMelee Damage: +","近战伤害: +"},
-					{"\nMelee Crit: +","近战暴击: +"},
-					{" \nRanged Damage: +","远程伤害: +"},
-					{"\nRanged Crit: +","远程暴击: +"},
-					{" \nMagic Damage: +","魔法伤害: +"},
-					{"\nMagic Crit: +","魔法暴击: +"},
-					{" \nSummon Damage: +","召唤伤害: +"},
-					{"\nSummon Crit: +","召唤暴击: +"},
-					{" \nThrown Damage: +","投掷伤害: +"},
-					{"\nThrown Crit: +","投掷暴击: +"},
-					{" \nBlitz Damage: +","必杀技伤害: +"},
-					{"\nBlitz Crit: +","必杀技暴击: +"},
-					{" \nTools Damage: +","工具伤害: +"},
-					{"\nTools Crit: +","工具暴击: +"},
-					{" \nBushido Damage: +","必杀剑伤害: +"},
-					{"\nBushido Crit: +","必杀剑暴击: +"},
-					{" \nWhite Magic Healing: +","白魔法治疗: +"},
-					{"\nMelee Speed: +","近战速度: +"},
-					{"\nAll Attack Speed: +","攻击速度: +"},
-					{"\nMax Mana: +","最大魔力值: +"},
-					{"\nMana Reduction: +","魔法减耗: +"},
-					{"\nSummon Slots: +","召唤栏: +"},
-					{"\nSummon Knockback: +","召唤击退: +"},
-					{"\nMovement Speed: +","移速: +"},
-					{"\nMax Run Speed: +","最大速度: +"},
-					{"\nDodge Chance: +","闪避率: +"},
-					{"\nIncreased jump height","增加跳跃高度"},
-					{"\nIncreased life regen","增加生命再生"},
-					{"\nKnockback Immunity","免疫击退"},
+					{"\nDefense: ","\n防御: "},
+					{" \nMelee Damage: +","\n近战伤害: +"},
+					{"\nMelee Crit: +","\n近战暴击: +"},
+					{" \nRanged Damage: +","\n远程伤害: +"},
+					{"\nRanged Crit: +","\n远程暴击: +"},
+					{" \nMagic Damage: +","\n魔法伤害: +"},
+					{"\nMagic Crit: +","\n魔法暴击: +"},
+					{" \nSummon Damage: +","\n召唤伤害: +"},
+					{"\nSummon Crit: +","\n召唤暴击: +"},
+					{" \nThrown Damage: +","\n投掷伤害: +"},
+					{"\nThrown Crit: +","\n投掷暴击: +"},
+					{" \nBlitz Damage: +","\n必杀技伤害: +"},
+					{"\nBlitz Crit: +","\n必杀技暴击: +"},
+					{" \nTools Damage: +","\n工具伤害: +"},
+					{"\nTools Crit: +","\n工具暴击: +"},
+					{" \nBushido Damage: +","\n必杀剑伤害: +"},
+					{"\nBushido Crit: +","\n必杀剑暴击: +"},
+					{" \nWhite Magic Healing: +","\n白魔法治疗: +"},
+					{"\nMelee Speed: +","\n近战速度: +"},
+					{"\nAll Attack Speed: +","\n攻击速度: +"},
+					{"\nMax Mana: +","\n最大魔力值: +"},
+					{"\nMana Reduction: +","\n魔法减耗: +"},
+					{"\nSummon Slots: +","\n召唤栏: +"},
+					{"\nSummon Knockback: +","\n召唤击退: +"},
+					{"\nMovement Speed: +","\n移速: +"},
+					{"\nMax Run Speed: +","\n最大速度: +"},
+					{"\nDodge Chance: +","\n闪避率: +"},
+					{"\nIncreased jump height","\n增加跳跃高度"},
+					{"\nIncreased life regen","\n增加生命再生"},
+					{"\nKnockback Immunity","\n免疫击退"},
 				});
 				#endregion FF6Mod.FF6ItemStats
 
@@ -327,6 +327,10 @@ namespace FFCHS2.FF6ModTranslator
 
 
 				#region FF6Mod.UI.CurrentSong.CurrentSongUI
+				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.UI.CurrentSong.CurrentSongUI", "OnInitialize", new ()
+				{
+					{"Description: ","描述："},
+				});
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.UI.CurrentSong.CurrentSongUI", "Update", new ()
 				{
 					{"Current Song: ","曲子: "},
@@ -861,6 +865,7 @@ namespace FFCHS2.FF6ModTranslator
 					{" is immune to","免疫"},
 					{" will absorb","吸收"},
 					{" has no weaknesses or resistances.","没有弱点与抵抗属性"},
+					{" damage."," 伤害。"},
 				});
 				#endregion FF6Mod.Projectiles.Spells.GreyMagic.ScanProj
 
@@ -872,6 +877,7 @@ namespace FFCHS2.FF6ModTranslator
 				});
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.NPCs.Researcher", "GetChat", new ()
 				{
+					{"I once lived on an island and ate nothing but fish for 3 years!","我曾经困在一个孤岛上，三年里除了鱼啥都没吃过!"},
 					{"When Vector was destroyed, I ran off with all the magicite.  Want to buy some?","贝克塔被摧毁时,我带着所有魔石逃了出来。要买点吗?"},
 					{"Ever feel like too many people are named Cid?  No?","叫西德的人很多?不是吗?"},
 					{"My yellow banana outfit indiciates that I am the highest ranked researcher in the lab.","我的黄色大香蕉服装是最高级研究员的证明"},
@@ -887,6 +893,7 @@ namespace FFCHS2.FF6ModTranslator
 				});
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.NPCs.ImperialDefector", "GetChat", new ()
 				{
+					{"My name isn't Vicks, why would you think that?","我不叫威克斯，你为什么这么觉得?"},
 					{"Hard to believe an Esper's been found intact here, 1000 years after the War of the Magi...","很难相信魔大战一千年后还能在这里发现完好无损的幻兽..."},
 					{"Do you recall hearing about a monster that eats lightning?","你听说过吃雷的怪兽吗?"},
 					{"Do you know where I can park my Magitek Armor for free? The merchant wants me to pay for parking.","你知道在哪里能免费停魔导装甲吗?商人说停放装甲要收费。"},
@@ -902,6 +909,7 @@ namespace FFCHS2.FF6ModTranslator
 				});
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.NPCs.Shopkeep", "GetChat", new ()
 				{
+					{"Remember to set the hotkeys for your skills!","记住设置技能按键!"},
 					{"Have you unlocked any jobs yet?","你已经解锁职业了吗?"},
 					{"Did you know that some Character Outfits have skills in addition to their stats?","你知道有些角色套装除了属性还有特殊技能吗?"},
 					{"Have you ever travelled to Zozo?  Nice people, there.","你去过左左镇吗?那里的人还不错。"},
@@ -969,9 +977,11 @@ namespace FFCHS2.FF6ModTranslator
 				});
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.NPCs.Bosses.Ulty.Ultros", "OnHitByProjectile", new ()
 				{
+					{"Yeeeouch!","哎哟!"},
 				});
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.NPCs.Bosses.Ulty.Ultros", "OnKill", new ()
 				{
+					{"Ultros: Th...that's all, friends!","奥尔特洛斯:就...就这样吧，伙计!"},
 				});
 				#endregion FF6Mod.NPCs.Bosses.Ulty.Ultros
 
@@ -986,6 +996,7 @@ namespace FFCHS2.FF6ModTranslator
 				});
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.NPCs.Bosses.Ulty.Ultros2", "OnKill", new ()
 				{
+					{"Ultros: I lose AGAIN!","奥尔特洛斯:我又输了!"},
 				});
 				#endregion FF6Mod.NPCs.Bosses.Ulty.Ultros2
 
@@ -993,11 +1004,14 @@ namespace FFCHS2.FF6ModTranslator
 				#region FF6Mod.NPCs.Bosses.ThunderBeard.Ramuh
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.NPCs.Bosses.ThunderBeard.Ramuh", "AI", new ()
 				{
-					{"Ramuh: I am Ramuh... The esper Ramuh.","拉姆:你寻求力量来阻止一场灾祸。"},
+					{"Ramuh: You seek power to prevent a great catastrophe?","拉姆:你寻求力量来阻止一场灾祸。"},
+					{"Ramuh: Well done.  I shall give you my power as well.","拉姆:做得好。我会将我的力量给你。"},
+					{"Ramuh: I am Ramuh... The esper Ramuh.","拉姆:我是拉姆...幻兽拉姆。"},
 					{"Ramuh: Then withstand my might and prove your worth!","拉姆:那就承受住我的力量，证明你的价值!"},
 				});
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.NPCs.Bosses.ThunderBeard.Ramuh", "OnKill", new ()
 				{
+					{"Ramuh: Ramuh: Well done.  I shall give you my power as well.","拉姆:做得好。我会将我的力量给你。"},
 				});
 				#endregion FF6Mod.NPCs.Bosses.ThunderBeard.Ramuh
 
@@ -1024,6 +1038,7 @@ namespace FFCHS2.FF6ModTranslator
 				});
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.NPCs.Bosses.IfritShiva.Ifrit", "OnKill", new ()
 				{
+					{"Ifrit: Take our strength, add it to your own.","伊弗利特:接受我们的力量吧。"},
 				});
 				#endregion FF6Mod.NPCs.Bosses.IfritShiva.Ifrit
 
@@ -1035,6 +1050,7 @@ namespace FFCHS2.FF6ModTranslator
 				});
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.NPCs.Bosses.FatChoco.FatChocobo", "OnKill", new ()
 				{
+					{"Fat Chocobo: You are now my master. Summon me anytime.","肥陆行鸟:你是我的主人了，随时待命。"},
 				});
 				#endregion FF6Mod.NPCs.Bosses.FatChoco.FatChocobo
 
@@ -1063,6 +1079,7 @@ namespace FFCHS2.FF6ModTranslator
 				});
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.NPCs.Bosses.Carby.Carbuncle", "OnKill", new ()
 				{
+					{"Carbuncle: Well done. Take my power!","红宝石兽:干得好，接受我的力量吧!"},
 				});
 				#endregion FF6Mod.NPCs.Bosses.Carby.Carbuncle
 
