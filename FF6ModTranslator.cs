@@ -488,6 +488,7 @@ namespace FFCHS2.FF6ModTranslator
 				});
 				TranslatorLoad.LocalizeByTypeFullName("FF6Mod.Mechanics.SkillSystem.Skills.Jobs.BardState", "GetSongDescription", new ()
 				{
+					{"Increases melee damage","增加近战伤害"},
 					{"Regenerates MP","恢复魔力"},
 					{"Increases movement speed","增加移速"},
 					{"Regenerates HP","恢复生命"},
@@ -850,6 +851,7 @@ namespace FFCHS2.FF6ModTranslator
 					{" Fire","火"},
 					{" Ice","冰"},
 					{" Water","水"},
+					{" Bolt","电"},
 					{" Earth","地"},
 					{" Wind","风"},
 					{" Holy","圣"},
